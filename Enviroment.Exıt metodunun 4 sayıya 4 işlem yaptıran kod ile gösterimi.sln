@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enviroment.Exıt metodunun 4 sayıya 4 işlem yaptıran kod ile gösterimi", "Enviroment.Exıt metodunun 4 sayıya 4 işlem yaptıran kod ile gösterimi.csproj", "{E6D3951A-38D9-4E50-9E66-5C87B24A8B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D3951A-38D9-4E50-9E66-5C87B24A8B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D3951A-38D9-4E50-9E66-5C87B24A8B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D3951A-38D9-4E50-9E66-5C87B24A8B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D3951A-38D9-4E50-9E66-5C87B24A8B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6D4AC1-F21E-438B-9E45-0EAE868A6087}
+	EndGlobalSection
+EndGlobal
